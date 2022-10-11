@@ -1,4 +1,4 @@
-# Git-demoilut
+# Git/Github-demoilua
 
 Testailaan githubia
 
@@ -9,3 +9,5 @@ Testailaan githubia
 * Bootstrap mukaan
 * Kissakuva etusivulle
 * Linkki Xamkin sivuille
+
+---
